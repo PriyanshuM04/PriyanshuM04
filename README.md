@@ -13,7 +13,22 @@ I'm Priyanshu Mallick from Jharkhand, India
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,git,github,react,numpy,pandas,sklearn,tensorflow,jupyter,figma,vscode&perline=16" />
+<img src="https://skillicons.dev/icons?i=java" width="45" />
+<img src="https://skillicons.dev/icons?i=spring" width="45" />
+<img src="https://skillicons.dev/icons?i=python" width="45" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="45" />
+<img src="https://skillicons.dev/icons?i=mysql" width="45" />
+<img src="https://skillicons.dev/icons?i=postgres" width="45" />
+<img src="https://skillicons.dev/icons?i=git" width="45" />
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+<img src="https://skillicons.dev/icons?i=react" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://skillicons.dev/icons?i=sklearn" width="45" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" />
+<img src="https://skillicons.dev/icons?i=figma" width="45" />
+<img src="https://skillicons.dev/icons?i=vscode" width="45" />
 </p>
 
 ## 🔥 My Stats
@@ -26,11 +41,11 @@ I'm Priyanshu Mallick from Jharkhand, India
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshumallick004">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Priyanshu_Mallick04">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" />
   </a>
 </p>
 
